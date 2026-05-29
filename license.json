@@ -1,5 +1,6 @@
 {
   "active": true,
   "expiry": "2026-12-31",
-  "client": "Limtek"
+  "client": "Limtek",
+  "pwd": "limtek2025"
 }
